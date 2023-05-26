@@ -1,0 +1,2 @@
+Comando para rodar o servidor
+- streamlit run arquivo.py
